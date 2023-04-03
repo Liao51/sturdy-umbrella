@@ -1,0 +1,4 @@
+2023-04-01 01:32:40,319|192.168.31.184|gulimall-member|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-04-01 01:32:40,332|192.168.31.184|gulimall-member.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-04-01 01:53:50,628|192.168.31.184|gulimall-product|DEFAULT_GROUP|d1deac83-c538-495c-8c40-70d3747ddcf9|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-04-01 01:53:50,638|192.168.31.184|gulimall-product.properties|DEFAULT_GROUP|d1deac83-c538-495c-8c40-70d3747ddcf9|unknown|-1|pull|not-found|-1|127.0.0.1

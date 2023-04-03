@@ -1,0 +1,4 @@
+2023-03-29 01:28:16,350 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.31.184:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-29 01:28:16,350 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 
+

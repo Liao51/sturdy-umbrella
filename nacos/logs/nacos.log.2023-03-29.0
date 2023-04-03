@@ -1,0 +1,980 @@
+2023-03-29 00:00:07,304 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:00:07,310 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:00:36,827 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:00:36,827 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:00:54,563 INFO [capacityManagement] start correct usage
+
+2023-03-29 00:00:54,564 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 00:00:54,980 WARN clearConfigHistory start
+
+2023-03-29 00:01:06,336 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:01:06,336 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:01:35,853 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:01:35,853 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:02:05,373 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:02:05,373 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:02:34,885 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:02:34,885 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:03:04,407 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:03:04,407 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:03:33,926 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:03:33,927 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:04:03,433 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:04:03,433 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:04:32,949 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:04:32,949 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:05:02,459 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:05:02,459 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:05:31,970 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:05:31,970 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:06:01,484 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:06:01,484 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:06:30,996 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:06:30,996 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:07:00,510 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:07:00,510 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:07:30,018 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:07:30,018 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:07:59,534 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:07:59,534 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:08:29,043 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:08:29,043 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:08:58,548 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:08:58,548 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:09:28,060 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:09:28,060 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:09:57,570 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:09:57,571 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:10:27,085 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:10:27,085 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:10:54,576 INFO [capacityManagement] start correct usage
+
+2023-03-29 00:10:54,576 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 00:10:54,994 WARN clearConfigHistory start
+
+2023-03-29 00:10:56,593 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:10:56,594 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:11:26,107 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:11:26,107 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:11:55,624 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:11:55,624 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:12:25,134 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:12:25,134 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:12:54,642 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:12:54,642 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:13:24,159 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:13:24,159 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:13:53,669 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:13:53,669 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:14:23,178 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:14:23,178 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:14:52,685 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:14:52,685 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:15:22,199 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:15:22,200 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:15:51,720 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:15:51,721 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:16:21,229 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:16:21,230 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:16:50,740 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:16:50,740 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:17:20,248 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:17:20,248 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:17:49,769 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:17:49,769 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:18:19,279 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:18:19,280 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:18:48,797 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:18:48,798 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:19:18,304 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:19:18,304 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:19:47,815 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:19:47,815 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:20:17,334 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:20:17,334 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:20:46,839 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:20:46,839 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:20:54,591 INFO [capacityManagement] start correct usage
+
+2023-03-29 00:20:54,601 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 00:20:55,011 WARN clearConfigHistory start
+
+2023-03-29 00:21:16,357 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:21:16,358 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:21:45,861 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:21:45,862 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:22:15,374 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:22:15,374 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:22:44,878 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:22:44,878 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:23:14,400 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:23:14,400 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:23:43,912 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:23:43,912 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:24:13,423 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:24:13,424 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:24:42,937 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:24:42,937 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:25:12,443 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:25:12,443 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:25:41,950 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:25:41,950 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:26:11,467 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:26:11,467 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:26:40,968 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:26:40,969 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:27:10,488 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:27:10,488 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:27:39,998 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:27:39,998 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:28:09,515 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:28:09,516 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:28:39,033 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:28:39,034 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:29:08,549 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:29:08,550 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:29:38,054 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:29:38,055 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:30:07,557 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:30:07,557 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:30:37,067 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:30:37,067 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:30:54,606 INFO [capacityManagement] start correct usage
+
+2023-03-29 00:30:54,606 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 00:30:55,023 WARN clearConfigHistory start
+
+2023-03-29 00:31:06,580 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:31:06,580 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:31:36,082 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:31:36,082 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:32:05,595 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:32:05,596 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:32:35,112 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:32:35,113 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:33:04,629 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:33:04,629 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:33:34,136 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:33:34,136 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:34:03,649 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:34:03,649 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:34:33,163 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:34:33,163 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:35:02,677 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:35:02,677 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:35:32,197 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:35:32,197 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:36:01,706 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:36:01,706 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:36:31,220 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:36:31,221 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:37:00,725 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:37:00,725 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:37:30,239 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:37:30,239 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:37:59,742 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:37:59,744 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:38:29,260 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:38:29,260 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:38:58,766 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:38:58,766 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:39:28,281 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:39:28,281 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:39:57,796 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:39:57,797 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:40:27,311 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:40:27,311 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:40:54,620 INFO [capacityManagement] start correct usage
+
+2023-03-29 00:40:54,620 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 00:40:55,037 WARN clearConfigHistory start
+
+2023-03-29 00:40:56,825 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:40:56,825 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:41:26,333 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:41:26,333 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:41:55,836 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:41:55,836 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:42:25,350 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:42:25,351 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:42:54,862 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:42:54,862 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:43:24,373 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:43:24,373 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:43:53,877 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:43:53,877 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:44:23,392 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:44:23,392 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:44:52,900 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:44:52,900 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:45:22,403 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:45:22,403 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:45:51,909 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:45:51,909 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:46:21,426 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:46:21,426 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:46:50,938 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:46:50,938 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:47:20,448 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:47:20,448 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:47:49,951 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:47:49,951 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:48:19,465 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:48:19,465 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:48:48,979 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:48:48,979 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:49:18,488 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:49:18,488 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:49:48,005 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:49:48,005 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:50:17,513 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:50:17,513 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:50:47,024 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:50:47,025 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:50:54,635 INFO [capacityManagement] start correct usage
+
+2023-03-29 00:50:54,636 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 00:50:55,039 WARN clearConfigHistory start
+
+2023-03-29 00:51:16,533 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:51:16,533 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:51:46,043 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:51:46,043 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:52:15,553 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:52:15,553 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:52:45,065 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:52:45,066 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:53:14,581 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:53:14,581 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:53:44,101 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:53:44,101 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:54:13,616 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:54:13,616 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:54:43,128 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:54:43,128 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:55:12,648 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:55:12,648 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:55:42,159 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:55:42,159 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:56:11,673 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:56:11,675 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:56:41,179 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:56:41,180 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:57:10,698 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:57:10,698 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:57:40,213 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:57:40,215 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:58:09,725 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:58:09,726 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:58:39,232 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:58:39,232 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:59:08,747 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:59:08,747 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:59:38,254 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 00:59:38,254 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:00:07,762 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:00:07,762 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:00:37,274 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:00:37,275 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:00:54,649 INFO [capacityManagement] start correct usage
+
+2023-03-29 01:00:54,650 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 01:00:55,040 WARN clearConfigHistory start
+
+2023-03-29 01:01:06,783 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:01:06,783 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:01:36,297 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:01:36,297 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:02:05,804 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:02:05,804 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:02:35,321 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:02:35,321 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:03:04,831 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:03:04,831 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:03:34,347 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:03:34,348 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:04:03,860 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:04:03,862 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:04:33,374 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:04:33,374 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:05:02,881 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:05:02,881 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:05:32,396 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:05:32,396 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:06:01,908 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:06:01,908 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:06:31,425 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:06:31,425 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:07:00,949 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:07:00,949 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:07:30,467 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:07:30,467 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:07:59,983 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:07:59,983 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:08:29,499 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:08:29,499 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:08:59,010 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:08:59,010 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:09:28,516 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:09:28,516 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:09:58,021 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:09:58,021 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:10:27,531 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:10:27,531 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:10:54,654 INFO [capacityManagement] start correct usage
+
+2023-03-29 01:10:54,654 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 01:10:55,044 WARN clearConfigHistory start
+
+2023-03-29 01:10:57,038 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:10:57,038 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:11:26,543 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:11:26,543 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:11:56,058 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:11:56,058 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:12:25,569 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:12:25,569 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:12:55,086 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:12:55,086 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:13:24,596 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:13:24,597 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:13:54,103 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:13:54,103 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:14:23,616 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:14:23,616 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:14:53,126 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:14:53,126 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:15:22,645 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:15:22,645 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:15:52,163 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:15:52,164 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:16:21,681 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:16:21,681 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:16:51,194 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:16:51,194 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:17:20,705 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:17:20,706 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:17:50,213 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:17:50,213 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:18:19,730 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:18:19,730 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:18:49,241 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:18:49,242 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:19:18,756 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:19:18,756 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:19:48,263 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:19:48,264 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:20:17,771 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:20:17,771 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:20:47,287 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:20:47,287 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:20:54,658 INFO [capacityManagement] start correct usage
+
+2023-03-29 01:20:54,659 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 01:20:55,047 WARN clearConfigHistory start
+
+2023-03-29 01:21:16,805 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:21:16,805 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:21:46,312 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:21:46,312 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:22:15,820 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:22:15,821 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:22:45,328 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:22:45,329 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:23:14,840 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:23:14,841 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:23:44,350 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:23:44,350 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:24:13,859 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:24:13,859 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:24:43,363 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:24:43,363 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:25:12,881 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:25:12,881 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:25:42,397 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:25:42,397 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:26:11,902 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:26:11,902 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:26:41,415 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:26:41,415 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:27:10,930 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:27:10,931 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:27:40,443 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:27:40,443 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:28:09,960 INFO listen config id:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:28:09,960 INFO listen config id 2:gulimall-gateway.propertiesDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9gulimall-gatewayDEFAULT_GROUPd1deac83-c538-495c-8c40-70d3747ddcf9
+
+2023-03-29 01:30:54,668 INFO [capacityManagement] start correct usage
+
+2023-03-29 01:30:54,668 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 01:30:55,062 WARN clearConfigHistory start
+
+2023-03-29 01:36:37,634 INFO Shutting down ExecutorService 'taskScheduler'
+
+2023-03-29 01:36:37,640 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2023-03-29 12:36:40,493 INFO Starting Nacos v1.2.1 on LiaoQY with PID 11188 (C:\Users\18687\Desktop\nacos-server-1.2.1\nacos\target\nacos-server.jar started by 18687 in C:\Users\18687\Desktop\nacos-server-1.2.1\nacos\bin)
+
+2023-03-29 12:36:40,495 INFO The following profiles are active: standalone
+
+2023-03-29 12:36:41,931 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$6f5dbb72] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-03-29 12:36:42,003 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-03-29 12:36:42,005 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@4f32a3ad' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-03-29 12:36:42,006 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$94325e24] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-03-29 12:36:42,008 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-03-29 12:36:42,633 INFO Tomcat initialized with port(s): 8848 (http)
+
+2023-03-29 12:36:42,662 INFO Starting service [Tomcat]
+
+2023-03-29 12:36:42,662 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2023-03-29 12:36:42,676 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_321\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Java\jdk1.8.0_321\bin;C:\Tool\Git\cmd;C:\Tool\TortoiseGit\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\software\NetSarang\Xshell 7\;D:\Maven\apache-maven-3.9.0\bin;D:\software\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\18687\AppData\Local\Microsoft\WindowsApps;C:\Tool\Microsoft VS Code\bin;C:\Tool\Git;C:\Tool\Git\mingw64\bin;C:\Tool\Git\mingw64\libexec\git-core;C:\Users\18687\AppData\Roaming\npm;.]
+
+2023-03-29 12:36:42,748 INFO Initializing Spring embedded WebApplicationContext
+
+2023-03-29 12:36:42,748 INFO Root WebApplicationContext: initialization completed in 2211 ms
+
+2023-03-29 12:36:44,261 INFO Reflections took 30 ms to scan 1 urls, producing 6 keys and 24 values 
+
+2023-03-29 12:36:44,282 INFO Reflections took 2 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2023-03-29 12:36:44,286 INFO Reflections took 2 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2023-03-29 12:36:45,101 INFO Use Mysql as the driver
+
+2023-03-29 12:36:45,487 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2023-03-29 12:36:45,638 INFO Adding welcome page: class path resource [static/index.html]
+
+2023-03-29 12:36:45,904 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2023-03-29 12:36:45,933 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@426b6a74, org.springframework.security.web.context.SecurityContextPersistenceFilter@47dbb1e2, org.springframework.security.web.header.HeaderWriterFilter@293d0107, org.springframework.security.web.csrf.CsrfFilter@2dbf4cbd, org.springframework.security.web.authentication.logout.LogoutFilter@773f7880, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2e54db99, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6d24ffa1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4c51bb7, org.springframework.security.web.session.SessionManagementFilter@7b64240d, org.springframework.security.web.access.ExceptionTranslationFilter@7fc44dec]
+
+2023-03-29 12:36:45,998 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2023-03-29 12:36:46,017 INFO Initializing ExecutorService 'taskScheduler'
+
+2023-03-29 12:36:46,101 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2023-03-29 12:36:46,105 INFO Started Nacos in 6.604 seconds (JVM running for 7.121)
+
+2023-03-29 12:36:46,105 INFO Nacos logs files: C:\Users\18687\Desktop\nacos-server-1.2.1\nacos\logs\
+
+2023-03-29 12:36:46,105 INFO Nacos conf files: C:\Users\18687\Desktop\nacos-server-1.2.1\nacos\conf\
+
+2023-03-29 12:36:46,105 INFO Nacos data files: C:\Users\18687\Desktop\nacos-server-1.2.1\nacos\data\
+
+2023-03-29 12:36:46,105 INFO Nacos started successfully in stand alone mode.
+
+2023-03-29 12:36:46,212 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2023-03-29 12:36:46,212 INFO Initializing Servlet 'dispatcherServlet'
+
+2023-03-29 12:36:46,218 INFO Completed initialization in 6 ms
+
+2023-03-29 12:46:44,942 INFO [capacityManagement] start correct usage
+
+2023-03-29 12:46:45,009 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 12:46:45,098 WARN clearConfigHistory start
+
+2023-03-29 12:56:45,010 INFO [capacityManagement] start correct usage
+
+2023-03-29 12:56:45,010 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 12:56:45,148 WARN clearConfigHistory start
+
+2023-03-29 13:06:45,012 INFO [capacityManagement] start correct usage
+
+2023-03-29 13:06:45,015 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 13:06:45,154 WARN clearConfigHistory start
+
+2023-03-29 13:16:45,020 INFO [capacityManagement] start correct usage
+
+2023-03-29 13:16:45,021 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 13:16:45,160 WARN clearConfigHistory start
+
+2023-03-29 13:26:45,034 INFO [capacityManagement] start correct usage
+
+2023-03-29 13:26:45,035 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 13:26:45,175 WARN clearConfigHistory start
+
+2023-03-29 13:36:45,043 INFO [capacityManagement] start correct usage
+
+2023-03-29 13:36:45,044 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 13:36:45,184 WARN clearConfigHistory start
+
+2023-03-29 13:46:45,050 INFO [capacityManagement] start correct usage
+
+2023-03-29 13:46:45,052 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 13:46:45,190 WARN clearConfigHistory start
+
+2023-03-29 13:56:45,061 INFO [capacityManagement] start correct usage
+
+2023-03-29 13:56:45,062 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 13:56:45,201 WARN clearConfigHistory start
+
+2023-03-29 14:06:45,067 INFO [capacityManagement] start correct usage
+
+2023-03-29 14:06:45,067 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 14:06:45,207 WARN clearConfigHistory start
+
+2023-03-29 14:16:45,074 INFO [capacityManagement] start correct usage
+
+2023-03-29 14:16:45,075 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 14:16:45,215 WARN clearConfigHistory start
+
+2023-03-29 14:26:45,090 INFO [capacityManagement] start correct usage
+
+2023-03-29 14:26:45,091 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 14:26:45,229 WARN clearConfigHistory start
+
+2023-03-29 14:36:45,104 INFO [capacityManagement] start correct usage
+
+2023-03-29 14:36:45,107 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 14:36:45,244 WARN clearConfigHistory start
+
+2023-03-29 14:46:45,107 INFO [capacityManagement] start correct usage
+
+2023-03-29 14:46:45,109 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 14:46:45,261 WARN clearConfigHistory start
+
+2023-03-29 14:56:45,109 INFO [capacityManagement] start correct usage
+
+2023-03-29 14:56:45,111 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 14:56:45,264 WARN clearConfigHistory start
+
+2023-03-29 15:06:45,113 INFO [capacityManagement] start correct usage
+
+2023-03-29 15:06:45,115 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 15:06:45,268 WARN clearConfigHistory start
+
+2023-03-29 15:16:45,121 INFO [capacityManagement] start correct usage
+
+2023-03-29 15:16:45,123 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 15:16:45,277 WARN clearConfigHistory start
+
+2023-03-29 15:26:45,131 INFO [capacityManagement] start correct usage
+
+2023-03-29 15:26:45,133 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 15:26:45,285 WARN clearConfigHistory start
+
+2023-03-29 15:36:45,141 INFO [capacityManagement] start correct usage
+
+2023-03-29 15:36:45,143 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 15:36:45,297 WARN clearConfigHistory start
+
+2023-03-29 15:46:45,150 INFO [capacityManagement] start correct usage
+
+2023-03-29 15:46:45,151 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 15:46:45,305 WARN clearConfigHistory start
+
+2023-03-29 15:56:45,164 INFO [capacityManagement] start correct usage
+
+2023-03-29 15:56:45,165 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 15:56:45,319 WARN clearConfigHistory start
+
+2023-03-29 16:06:45,174 INFO [capacityManagement] start correct usage
+
+2023-03-29 16:06:45,176 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 16:06:45,329 WARN clearConfigHistory start
+
+2023-03-29 16:16:45,181 INFO [capacityManagement] start correct usage
+
+2023-03-29 16:16:45,181 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-03-29 16:16:45,336 WARN clearConfigHistory start
+

@@ -1,0 +1,15 @@
+2023-03-30 22:58:23,223|192.168.31.184|renren-fast|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 22:58:23,309|192.168.31.184|renren-fast.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 22:58:23,899|192.168.31.184|renren-fast-dev.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:01:24,324|192.168.31.184|gulimall-gateway|DEFAULT_GROUP|d1deac83-c538-495c-8c40-70d3747ddcf9|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:01:24,358|192.168.31.184|gulimall-gateway.properties|DEFAULT_GROUP|d1deac83-c538-495c-8c40-70d3747ddcf9|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:07:13,991|192.168.31.184|gulimall-product|DEFAULT_GROUP|d1deac83-c538-495c-8c40-70d3747ddcf9|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:07:14,075|192.168.31.184|gulimall-product.properties|DEFAULT_GROUP|d1deac83-c538-495c-8c40-70d3747ddcf9|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:08:56,802|192.168.31.184|gulimall-member|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:08:56,819|192.168.31.184|gulimall-member.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:09:25,013|192.168.31.184|oss.yml|DEFAULT_GROUP|52294bb0-a024-4a45-aef2-223669671cdb|unknown|1678991286787|pull|ok|1197678226|127.0.0.1
+2023-03-30 23:09:25,018|192.168.31.184|gulimall-third-party|DEFAULT_GROUP|52294bb0-a024-4a45-aef2-223669671cdb|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:09:25,031|192.168.31.184|gulimall-third-party.properties|DEFAULT_GROUP|52294bb0-a024-4a45-aef2-223669671cdb|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:41:34,565|192.168.31.184|oss.yml|DEFAULT_GROUP|52294bb0-a024-4a45-aef2-223669671cdb|unknown|1678991286787|pull|ok|1199607778|127.0.0.1
+2023-03-30 23:41:34,611|192.168.31.184|gulimall-third-party|DEFAULT_GROUP|52294bb0-a024-4a45-aef2-223669671cdb|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-03-30 23:41:34,623|192.168.31.184|gulimall-third-party.properties|DEFAULT_GROUP|52294bb0-a024-4a45-aef2-223669671cdb|unknown|-1|pull|not-found|-1|127.0.0.1

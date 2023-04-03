@@ -1,0 +1,40 @@
+2023-03-28 00:38:02,071 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-member
+
+2023-03-28 15:50:50,228 INFO initializing Raft sub-system
+
+2023-03-28 15:50:50,230 INFO finish loading all datums, size: 0 cost 2 ms.
+
+2023-03-28 15:50:50,230 INFO raft notifier started
+
+2023-03-28 15:50:50,237 INFO cache loaded, datum count: 0, current term: 0
+
+2023-03-28 15:50:50,237 INFO finish to load data from disk, cost: 9 ms.
+
+2023-03-28 15:50:50,246 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2023-03-28 15:50:49,793 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.31.184","key":"192.168.31.184:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2023-03-28 15:50:50,275 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.31.184","key":"192.168.31.184:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2023-03-28 15:50:53,161 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2023-03-28 15:50:53,194 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2023-03-28 15:50:59,288 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-gateway
+
+2023-03-28 15:50:59,774 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.31.184","key":"192.168.31.184:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-28 15:50:59,774 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.31.184","key":"192.168.31.184:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2023-03-28 15:50:59,774 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.31.184","key":"192.168.31.184:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-28 15:51:01,824 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.31.184","key":"192.168.31.184:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-28 15:52:38,308 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@renren-fast
+
+2023-03-28 15:53:12,167 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-member
+
+2023-03-28 15:54:46,155 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-product
+
+2023-03-28 15:54:54,095 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-third-party
+
